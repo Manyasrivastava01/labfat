@@ -1,0 +1,2 @@
+Flask==3.0.2  # or your specific version
+pytest==8.0.0  # required for the test step
